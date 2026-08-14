@@ -4,6 +4,8 @@ League of Legends recorder with an automatic montage forge. It records your
 matches on its own, marks every kill, death and assist on the timeline, and
 stitches your best moments into one video.
 
+![Rikord game library](docs/game-library.png)
+
 ## Download
 
 ### [→ Download the latest installer](https://github.com/Albidev1/rikord-releases/releases/latest)
